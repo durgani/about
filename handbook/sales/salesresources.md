@@ -30,6 +30,7 @@ The following templates are currently available:
 - [Sales Email](https://docs.google.com/document/d/1a7NayrKc8JWKgzlpawVCUVCTHFYucrSGA5wuF706B-M/)
 - [Mutual Nondisclosure Agreement](https://drive.google.com/u/0/uc?id=1M6UA8ro-qsdrj9fiB7wkJlD2jpy8epDI&export=download)
 - [First Call Deck](https://docs.google.com/presentation/d/1-LW97oT-VU4Zu3MXB1Wgbu_bSoAkdfOCfUfx7MWO9lo/)
+- [Trial and Deployment Checklist](https://docs.google.com/spreadsheets/d/1mi_540InPEs6_xmCE2gHzw6Vt9QHDx-IdGogQZN6Ezw/edit#gid=1029322600)
 
 ### Updating Templates
 
