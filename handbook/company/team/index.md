@@ -1146,3 +1146,12 @@ He likes to travel, visit places off the beaten path, and trek in the mountains.
 - GitHub: [marija.petrovic214](https://github.com/marija.petrovic214), [LinkedIn](https://www.linkedin.com/in/marija-petrovic-b49b9b38/)
 - [marija.petrovic@sourcegraph.com](mailto:marija.petrovic@sourcegraph.com)
 - Marija, pronounced "Maria", is a Serbian-American living in sunny Naples, Florida. She is passionate about helping people find their dream career while promoting the vision and values of the organization + all things People/HR/Analytics related. She is currently finishing her Master's in HR Analytics and Resource Management at American University and has a BS in Finance and Information Systems from the University of Florida. Outside of work, she enjoys spending time with family & her son Luka, traveling, tennis, skiing, yoga, painting/art, and investing in anything self-care/self-improvement-oriented! 
+
+## Prakash Durgani (He/Him)
+
+- Head of Sales, EMEA and APJ
+- San Francisco, CA, USA 🇺🇸
+- Github: [durgani](https://github.com/durgani)
+- Twitter: [@durgani](https://twitter.com/durgani)
+- [durgani@sourcegraph.com](mailto:durgani@sourcegraph.com), [Linkedin](https://www.linkedin.com/in/durgani)
+- Prakash (or PD) has been living with wife and 2 kids in San Francisco for the past 4 years.  Prior to SF, they were living in Singapore where Prakash's side of the family is currently based.  Prakash started his career in engineering and eventually pivoted on to the "dark side" aka Sales.  He loves playing+teaching tennis and is actively pursuing on a certification to be a professional instructor
